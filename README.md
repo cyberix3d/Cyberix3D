@@ -1,6 +1,6 @@
 # Cyberix3D
 The Cyberix3D Engine can take an XML file and run it as a game. 
-The XML can be generated through any text editor or through a graphic editor with a user-friendly GUI.
+The XML can be generated through any text editor or through a graphics editor with a user-friendly GUI.
 
 The Cyberix3D will be built on top of the Urho3D engine.
 Here is an example project of the Urho3D engine:
