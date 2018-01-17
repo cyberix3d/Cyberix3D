@@ -1,7 +1,9 @@
 # Cyberix3D
-Cyberix3D - 3D Game maker
+The Cyberix3D Engine can take an XML file and run it as a game. 
+The XML can be generated through any text editor or through a graphic editor with a user-friendly GUI.
 
-Here is the Urho3D 1.7 engine that will be used to build Cyberix3D
+The Cyberix3D will be built on top of the Urho3D engine.
+Here is an example project of the Urho3D engine:
 https://drive.google.com/file/d/1iYF743XmjE3xtIZHiphB09kVyFbJtnyz/view?usp=sharing
 We have also included a VS 2017 project with all the examples inside.
 You can start playing with it by following the next steps
