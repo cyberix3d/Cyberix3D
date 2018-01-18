@@ -4,8 +4,11 @@ The Cyberix3D Game Maker is an online tool for creating 3D and 2D games for the 
 The Cyberix3D Engine will take an XML file and run it as a game.
 The XML can be generated through any text editor or through a graphics editor with a user-friendly GUI.
 
-You can follow the project features and todo list here:
+You can follow the Cyberix3D projects here:
 https://github.com/cyberix3d/Cyberix3D/projects
+
+And see the features list and roadmap here:
+https://github.com/cyberix3d/Cyberix3D/wiki
 
 The Cyberix3D will be built on top of the Urho3D engine.
 Here is an example project of the Urho3D engine:
